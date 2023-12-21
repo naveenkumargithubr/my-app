@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(15, 119, 119);
+  height: 100vh;
+  position: relative;
+  border: "1px solid #ccc";
+  padding: 20px;
+}
+
+.empForm {
+  background-color: red;
+}
+
+button {
+  display: block;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+p {
+  color: antiquewhite;
+  margin-bottom: 10px;
+}
